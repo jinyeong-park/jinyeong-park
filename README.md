@@ -6,7 +6,7 @@
 
 🚀 Building AI solutions on AWS  
 📖 Passionate about **Applied AI**  
-🛠️ Open-source contributor** | Developing scalable, secure, and maintainable web applications with a focus on accessibility, testing, and design patterns 
+🛠️ Open-source contributor | Developing scalable, secure, and maintainable web applications with a focus on accessibility, testing, and design patterns 
 
 ✨ **Fun fact:** I love traveling and previously worked as a cabin crew before transitioning into tech! ☕✈️  
 
