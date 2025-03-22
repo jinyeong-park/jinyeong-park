@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 👋 **Hi, I'm Jenny!**  
-💻 **Software Engineer | Applied AI Enthusiast | AWS Certified Solutions Architect**  
+💻 Product Manager | Software Engineer | Applied AI Enthusiast | AWS Certified Solutions Architect**  
 🌎 **San Francisco Bay Area, CA**  
 
 🚀 Building AI solutions on AWS  
