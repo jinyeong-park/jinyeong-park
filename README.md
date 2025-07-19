@@ -4,8 +4,6 @@
 💻 Lead Data Analyst | Applied AI Enthusiast  
 🌎 **San Francisco Bay Area, CA**  
   
-📖 Passionate about **Applied AI**  
-🛠️ Open-source contributor | Developing scalable, secure, and maintainable web applications with a focus on accessibility, testing, and design patterns 
 
 ✨ **Fun fact:** I love traveling and previously worked as a cabin crew before transitioning into tech! ☕✈️  
 
