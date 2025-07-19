@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 👋 **Hi, I'm Jenny!**  
-💻 Product Manager | Applied AI Enthusiast  
+💻 Lead Data Analyst | Applied AI Enthusiast  
 🌎 **San Francisco Bay Area, CA**  
   
 📖 Passionate about **Applied AI**  
