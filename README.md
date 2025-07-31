@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 👋 **Hi, I'm Jenny!**  
-💻 Lead Data Analyst | Applied AI Enthusiast  
+💻 PM | Lead Data Analyst | Applied AI Enthusiast  
 🌎 **San Francisco Bay Area, CA**  
   
 
