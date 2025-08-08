@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 👋 **Hi, I'm Jenny!**  
-💻 PM | Problem Solver | Applied AI Enthusiast
+💻 PM | Dev | Problem Solver | Applied AI Enthusiast
 
 ---
 
