@@ -1,11 +1,7 @@
 ## Hi there 👋  
 
 👋 **Hi, I'm Jenny!**  
-💻 PM | Lead Data Analyst | Applied AI Enthusiast  
-🌎 **San Francisco Bay Area, CA**  
-  
-
-✨ **Fun fact:** I love traveling and previously worked as a cabin crew before transitioning into tech! ☕✈️  
+💻 PM | Problem Solver | Applied AI Enthusiast
 
 ---
 
