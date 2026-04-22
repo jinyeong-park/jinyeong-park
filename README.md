@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 👋 **Hi, I'm Jenny!**  
-💻 Data Professional | PM
+💻 PM | Data Professional | AI enthusiast
 
 ---
 
