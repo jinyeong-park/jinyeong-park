@@ -1,4 +1,4 @@
-# Hi there 👋 I am Jenny Park
+# Hi 👋 I am Jenny Park
 
 **AdTech Product Manager · Performance Marketing Manager · Media Buyer**  
 📍 Based in Silicon Valley / San Jose, CA
@@ -26,15 +26,9 @@
 
 ### 🎛️ Tech Stack & Skill Matrix
 
-```byjennypark --display --vibrant
-// PRODUCT & ADTECH
-[Strategy]       [Roadmapping]   [PRD]            [User Research]
-[Meta Ads]       [TikTok Ads]    [ROAS Opt.]      [Funnel Analytics]
-
-// ENGINEERING & DATA
-[Python]         [SQL]           [JavaScript]     [React]
-[Node.js]        [REST APIs]     [Git/Version]    [Business Analytics]
-
-// AI DEPLOYMENTS
-[Prompt Eng.]    [LLM APIs]      [Claude 3.5]     [GPT-4o]
-[Google Studio]  [Lovable]       [AI Workflows]   [Automation]
+| Product & AdTech | Engineering & Data | AI Deployments |
+| :--- | :--- | :--- |
+| 🔹 Strategy / Roadmapping | 🔸 Python / SQL | ⚡ Prompt Engineering |
+| 🔹 PRD / User Research | 🔸 JavaScript / React | ⚡ LLM APIs (Claude / GPT-4o) |
+| 🔹 Meta / TikTok Ads | 🔸 Node.js / REST APIs | ⚡ Google AI Studio |
+| 🔹 ROAS Opt. / Funnel Analytics | 🔸 Git / Business Analytics | ⚡ Lovable / AI Automation |
