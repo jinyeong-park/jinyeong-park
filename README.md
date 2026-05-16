@@ -7,15 +7,17 @@
 
 ---
 
-### 🎚️ Active Deployments & Tailored Resumes
+### 🎚️ Interactive Resume 
 
-I have prepared different versions of my resume. Please select the one that fits your preference:
+*I have prepared different versions of my resume. Please select the one that fits your preference:*
 
 * 🚀 **[Resume v1 — For Tech Startups (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver1.html)**
 * 🏢 **[Resume v2 — For B2B SaaS Companies (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver2.html)**
 * 🤖 **[Resume v3 — For AI/Growth Product Manager Roles (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver3.html)**
 * 🏛️ **[Resume v4 — For Fortune 500, Enterprise & Strict ATS Screenings (Light Theme) →](https://jinyeong-park.github.io/resume/claude-ver4.html)**
 * 📈 **[Resume v5 — For Growth-Stage, Data-Driven B2B SaaS (Light Theme) →](https://jinyeong-park.github.io/resume/claude-ver5.html)**
+
+💡 *Want to build your own tailored resume using AI? **[Check out the source code & prompts here →](https://github.com/jinyeong-park/resume)***
 
 ---
 
