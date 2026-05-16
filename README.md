@@ -1,6 +1,6 @@
 # Hi 👋 I am Jenny Park
 
-**AdTech Product Manager · Performance Marketing Manager · Media Buyer**  
+**AdTech Product Manager · Performance Marketing Manager**  
 📍 Based in Silicon Valley / San Jose, CA
 
 > **Multi-disciplinary operator** bridging performance marketing and product engineering — from Meta Ads strategy to shipping AI-native tooling. Founder of **JYNLAB** and **Admade**. Ex-SAP PM (AI Focus) · M.S. MCIT, UPenn.
