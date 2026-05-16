@@ -1,11 +1,9 @@
-# Hi 👋 I am Jenny Park
+
 
 <!-- PROFILE VIEWS -->
-<p align="right">
-  <img src="https://komarev.com/ghvc/?username=jinyeong-park&label=PROFILE+VIEWS&color=2dd4bf&style=flat-square" alt="Visitor Counter" />
-</p>
 
-# Jenny Park
+
+# Hi 👋 I am Jenny Park
 <p align="left">
   <img src="https://img.shields.io/badge/AdTech_Product_Manager-7c6ff7?style=flat-square&logo=probot&logoColor=white" />
   <img src="https://img.shields.io/badge/Performance_Marketing-2dd4bf?style=flat-square&logo=googleanalytics&logoColor=white" />
