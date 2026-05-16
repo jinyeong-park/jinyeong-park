@@ -9,7 +9,7 @@
 
 ### 🎚️ Active Deployments & Tailored Resumes
 
-Please select a tailored resume customized for your organization's focus and technical profile:
+I have prepared different versions of my resume. Please select the one that fits your preference:
 
 * 🚀 **[Resume v1 — For Tech Startups (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver1.html)**
 * 🏢 **[Resume v2 — For B2B SaaS Companies (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver2.html)**
