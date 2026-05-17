@@ -26,7 +26,7 @@
 ### 🛠️ Featured AI & Product Prompts
 *You might be interested in these resources:*
 
-* **[RAG Simulator Prompt & Live Demo →](https://github.com/jinyeong-park/rag_simulator)** *(Link text placeholder)*
+* **[RAG Simulator Prompt & Live Demo →](https://github.com/jinyeong-park/rag_simulator)**
 * **[UI/UX Design System Prompt →](https://github.com/jinyeong-park/ai-prompt-for-pm/blob/main/uiux-design-clean-light-saas.md)**
   * *Clean & minimalistic SaaS design prompt for modern dashboard interfaces.*
 * **[System Prompt: Frontend Spec Expander →](https://github.com/jinyeong-park/ai-prompt-for-pm/blob/main/meta-system-prompt.md)**
