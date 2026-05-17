@@ -1,27 +1,37 @@
 # Hi 👋 I'm Jenny Park
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AdTech_Product_Manager-7c6ff7?style=flat-square&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Performance_Marketing-2dd4bf?style=flat-square&logo=googleanalytics&logoColor=white" />
-</p>
+![AdTech Product Manager](https://img.shields.io/badge/AdTech_Product_Manager-7c6ff7?style=flat-square&logo=probot&logoColor=white) ![Performance Marketing](https://img.shields.io/badge/Performance_Marketing-2dd4bf?style=flat-square&logo=googleanalytics&logoColor=white)
 
 > **Multi-disciplinary operator** bridging performance marketing and product engineering — from Meta Ads strategy to shipping AI-native tooling. 
 > Founder of **JYNLAB** and **Admade**. Ex-SAP PM (AI Focus) · M.S. MCIT, UPenn.
 
 ---
 
-### 📄 Tailored Resumes
-*Select a resume variant customized for your organization's focus and scale:*
+### 📄 Interactive Resume
 
-* **[Resume v1 — For Tech Startups (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver1.html)**
-* **[Resume v2 — For B2B SaaS Companies (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver2.html)**
-* **[Resume v3 — For AI/Growth Product Manager Roles (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver3.html)**
-* **[Resume v4 — For Fortune 500, Enterprise & Strict ATS Screenings (Light Theme) →](https://jinyeong-park.github.io/resume/claude-ver4.html)**
-* **[Resume v5 — For Growth-Stage, Data-Driven B2B SaaS (Light Theme) →](https://jinyeong-park.github.io/resume/claude-ver5.html)**
+* **[Resume →](https://jinyeong-park.github.io/resume/claude-ver1.html)**
+
+<!-- * **[Resume v1 — For Tech Startups (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver1.html)** -->
+<!-- * **[Resume v2 — For B2B SaaS Companies (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver2.html)** -->
+<!-- * **[Resume v3 — For AI/Growth Product Manager Roles (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver3.html)** -->
+<!-- * **[Resume v4 — For Fortune 500, Enterprise & Strict ATS Screenings (Light Theme) →](https://jinyeong-park.github.io/resume/claude-ver4.html)** -->
+<!-- * **[Resume v5 — For Growth-Stage, Data-Driven B2B SaaS (Light Theme) →](https://jinyeong-park.github.io/resume/claude-ver5.html)** -->
+
+<br/>
 
 > 💡 *Want to build your own tailored resume using AI? **[Check out the source code & prompts here →](https://github.com/jinyeong-park/resume)***
 
 ---
+
+### 💻 AI Tools for PM that I built
+
+| PM Tool Name | GitHub Link | Live Demo |
+| :--- | :--- | :--- |
+| **PRD Generator** | [GitHub Repo](https://github.com/jinyeong-park/pm-prd-generator) | [Live Demo 🚀](https://pm-prd-generator.lovable.app/) |
+| **PRD Analyzer** | [GitHub Repo](https://github.com/jinyeong-park/pm-prd-analyzer) | [Live Demo 🚀](https://pm-prd-analyzer.lovable.app/) |
+| **Better user research questions** <br><sub>(Based on *The Mom Test*)</sub> | [GitHub Repo](https://github.com/jinyeong-park/qrefiner) | [Live Demo 🚀](https://pm-prd-analyzer.lovable.app/) |
+
+<br/>
 
 ### 🛠️ Featured AI & Product Prompts
 *You might be interested in these resources:*
@@ -31,9 +41,10 @@
   * *Clean & minimalistic SaaS design prompt for modern dashboard interfaces.*
 * **[System Prompt: Frontend Spec Expander →](https://github.com/jinyeong-park/ai-prompt-for-pm/blob/main/meta-system-prompt.md)**
   * *Converts vague, abstract ideas into detailed, actionable product specification prompts.*
+
 ---
 
-### Current Focus
+### 🎯 Current Focus
 
 * **Scaling [JYNLAB](https://jynlab.com)** — A boutique Meta Ads consultancy driven by data, custom attribution, and aggressive CPA reduction.
 * **Evolving [Admade](https://tryadmade.com)** — An AI-powered ad creative generator that turns concepts into platform-optimized copy in minutes.
@@ -42,7 +53,7 @@
 
 ---
 
-### Core Metrics
+### 📊 Core Metrics
 
 | ROAS Achieved | CPA Reduction | Enterprise Experience | Global Footprint |
 | :---: | :---: | :---: | :---: |
@@ -52,7 +63,7 @@
 
 ---
 
-### Tech Stack & Skill Matrix
+### 🧰 Tech Stack & Skill Matrix
 
 | Product & AdTech | Engineering & Data | AI Deployments |
 | :--- | :--- | :--- |
@@ -67,9 +78,6 @@
 
 ---
 
-### Contact & Connect
+### 🤝 Contact & Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/jennypark7"><img src="https://img.shields.io/badge/LinkedIn-2dd4bf?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:byjennypark@gmail.com"><img src="https://img.shields.io/badge/Email-f97066?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2dd4bf?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jennypark7) [![Email](https://img.shields.io/badge/Email-f97066?style=flat-square&logo=gmail&logoColor=white)](mailto:byjennypark@gmail.com)
