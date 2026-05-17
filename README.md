@@ -9,7 +9,7 @@
 
 ### 📄 Interactive Resume
 
-* **[Resume →](https://jinyeong-park.github.io/resume/claude-ver1.html)**
+* **<a href="https://jinyeong-park.github.io/resume/claude-ver1.html" target="_blank" rel="noopener noreferrer">Resume →</a>**
 
 <!-- * **[Resume v1 — For Tech Startups (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver1.html)** -->
 <!-- * **[Resume v2 — For B2B SaaS Companies (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver2.html)** -->
@@ -19,7 +19,7 @@
 
 <br/>
 
-> 💡 *Want to build your own tailored resume using AI? **[Check out the source code & prompts here →](https://github.com/jinyeong-park/resume)***
+> 💡 *Want to build your own tailored resume using AI? **<a href="https://github.com/jinyeong-park/resume" target="_blank" rel="noopener noreferrer">Check out the source code & prompts here →</a>***
 
 ---
 
@@ -27,27 +27,27 @@
 
 | PM Tool Name | GitHub Link | Live Demo |
 | :--- | :--- | :--- |
-| **PRD Generator** | [GitHub Repo](https://github.com/jinyeong-park/pm-prd-generator) | [Live Demo 🚀](https://pm-prd-generator.lovable.app/) |
-| **PRD Analyzer** | [GitHub Repo](https://github.com/jinyeong-park/pm-prd-analyzer) | [Live Demo 🚀](https://pm-prd-analyzer.lovable.app/) |
-| **Better user research questions** <br><sub>(Based on *The Mom Test*)</sub> | [GitHub Repo](https://github.com/jinyeong-park/qrefiner) | [Live Demo 🚀](https://pm-prd-analyzer.lovable.app/) |
+| **PRD Generator** | <a href="https://github.com/jinyeong-park/pm-prd-generator" target="_blank" rel="noopener noreferrer">GitHub Repo</a> | <a href="https://pm-prd-generator.lovable.app/" target="_blank" rel="noopener noreferrer">Live Demo 🚀</a> |
+| **PRD Analyzer** | <a href="https://github.com/jinyeong-park/pm-prd-analyzer" target="_blank" rel="noopener noreferrer">GitHub Repo</a> | <a href="https://pm-prd-analyzer.lovable.app/" target="_blank" rel="noopener noreferrer">Live Demo 🚀</a> |
+| **Better user research questions** <br><sub>(Based on *The Mom Test*)</sub> | <a href="https://github.com/jinyeong-park/qrefiner" target="_blank" rel="noopener noreferrer">GitHub Repo</a> | <a href="https://pm-prd-analyzer.lovable.app/" target="_blank" rel="noopener noreferrer">Live Demo 🚀</a> |
 
 <br/>
 
 ### 🛠️ Featured AI & Product Prompts
 *You might be interested in these resources:*
 
-* **[RAG Simulator Prompt & Live Demo →](https://github.com/jinyeong-park/rag_simulator)**
-* **[UI/UX Design System Prompt →](https://github.com/jinyeong-park/ai-prompt-for-pm/blob/main/uiux-design-clean-light-saas.md)**
+* **<a href="https://github.com/jinyeong-park/rag_simulator" target="_blank" rel="noopener noreferrer">RAG Simulator Prompt & Live Demo →</a>**
+* **<a href="https://github.com/jinyeong-park/ai-prompt-for-pm/blob/main/uiux-design-clean-light-saas.md" target="_blank" rel="noopener noreferrer">UI/UX Design System Prompt →</a>**
   * *Clean & minimalistic SaaS design prompt for modern dashboard interfaces.*
-* **[System Prompt: Frontend Spec Expander →](https://github.com/jinyeong-park/ai-prompt-for-pm/blob/main/meta-system-prompt.md)**
+* **<a href="https://github.com/jinyeong-park/ai-prompt-for-pm/blob/main/meta-system-prompt.md" target="_blank" rel="noopener noreferrer">System Prompt: Frontend Spec Expander →</a>**
   * *Converts vague, abstract ideas into detailed, actionable product specification prompts.*
 
 ---
 
 ### 🎯 Current Focus
 
-* **Scaling [JYNLAB](https://jynlab.com)** — A boutique Meta Ads consultancy driven by data, custom attribution, and aggressive CPA reduction.
-* **Evolving [Admade](https://tryadmade.com)** — An AI-powered ad creative generator that turns concepts into platform-optimized copy in minutes.
+* **Scaling <a href="https://jynlab.com" target="_blank" rel="noopener noreferrer">JYNLAB</a>** — A boutique Meta Ads consultancy driven by data, custom attribution, and aggressive CPA reduction.
+* **Evolving <a href="https://tryadmade.com" target="_blank" rel="noopener noreferrer">Admade</a>** — An AI-powered ad creative generator that turns concepts into platform-optimized copy in minutes.
 
 <br/>
 
@@ -80,4 +80,4 @@
 
 ### 🤝 Contact & Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2dd4bf?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jennypark7) [![Email](https://img.shields.io/badge/Email-f97066?style=flat-square&logo=gmail&logoColor=white)](mailto:byjennypark@gmail.com)
+<a href="https://linkedin.com/in/jennypark7" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-2dd4bf?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:byjennypark@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-f97066?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
