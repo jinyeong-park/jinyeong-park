@@ -1,22 +1,16 @@
+# Hi 👋 I'm Jenny Park
 
-
-<!-- PROFILE VIEWS -->
-
-
-# Hi 👋 I am Jenny Park
 <p align="left">
   <img src="https://img.shields.io/badge/AdTech_Product_Manager-7c6ff7?style=flat-square&logo=probot&logoColor=white" />
   <img src="https://img.shields.io/badge/Performance_Marketing-2dd4bf?style=flat-square&logo=googleanalytics&logoColor=white" />
 </p>
 
-> **Multi-disciplinary operator** bridging performance marketing and product engineering — from Meta Ads strategy to shipping AI-native tooling. Founder of **JYNLAB** and **Admade**. Ex-SAP PM (AI Focus) · M.S. MCIT, UPenn.
-
-<br/>
+> **Multi-disciplinary operator** bridging performance marketing and product engineering — from Meta Ads strategy to shipping AI-native tooling. 
+> Founder of **JYNLAB** and **Admade**. Ex-SAP PM (AI Focus) · M.S. MCIT, UPenn.
 
 ---
 
-### Tailored Resumes
-
+### 📄 Tailored Resumes
 *Select a resume variant customized for your organization's focus and scale:*
 
 * **[Resume v1 — For Tech Startups (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver1.html)**
@@ -25,12 +19,18 @@
 * **[Resume v4 — For Fortune 500, Enterprise & Strict ATS Screenings (Light Theme) →](https://jinyeong-park.github.io/resume/claude-ver4.html)**
 * **[Resume v5 — For Growth-Stage, Data-Driven B2B SaaS (Light Theme) →](https://jinyeong-park.github.io/resume/claude-ver5.html)**
 
-<br/>
-
 > 💡 *Want to build your own tailored resume using AI? **[Check out the source code & prompts here →](https://github.com/jinyeong-park/resume)***
 
-<br/>
+---
 
+### 🛠️ Featured AI & Product Prompts
+*You might be interested in these resources:*
+
+* **[RAG Simulator Prompt & Live Demo →](#)** *(Link text placeholder)*
+* **[UI/UX Design System Prompt →](https://github.com/jinyeong-park/ai-prompt-for-pm/blob/main/uiux-design-clean-light-saas.md)**
+  * *Clean & minimalistic SaaS design prompt for modern dashboard interfaces.*
+* **[System Prompt: Frontend Spec Expander →](https://github.com/jinyeong-park/ai-prompt-for-pm/blob/main/meta-system-prompt.md)**
+  * *Converts vague, abstract ideas into detailed, actionable product specification prompts.*
 ---
 
 ### Current Focus
