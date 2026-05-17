@@ -29,7 +29,7 @@
 | :--- | :--- | :--- |
 | **PRD Generator** | <a href="https://github.com/jinyeong-park/pm-prd-generator" target="_blank" rel="noopener noreferrer">GitHub Repo</a> | <a href="https://pm-prd-generator.lovable.app/" target="_blank" rel="noopener noreferrer">Live Demo 🚀</a> |
 | **PRD Analyzer** | <a href="https://github.com/jinyeong-park/pm-prd-analyzer" target="_blank" rel="noopener noreferrer">GitHub Repo</a> | <a href="https://pm-prd-analyzer.lovable.app/" target="_blank" rel="noopener noreferrer">Live Demo 🚀</a> |
-| **Better user research questions** <br><sub>(Based on *The Mom Test*)</sub> | <a href="https://github.com/jinyeong-park/qrefiner" target="_blank" rel="noopener noreferrer">GitHub Repo</a> | <a href="https://pm-prd-analyzer.lovable.app/" target="_blank" rel="noopener noreferrer">Live Demo 🚀</a> |
+| **Qrefiner: Better user research questions** <br><sub>(Based on *The Mom Test*)</sub> | <a href="https://github.com/jinyeong-park/qrefiner" target="_blank" rel="noopener noreferrer">GitHub Repo</a> | <a href="https://qrefiner.lovable.app/" target="_blank" rel="noopener noreferrer">Live Demo 🚀</a> |
 
 <br/>
 
