@@ -1,3 +1,4 @@
+
 # Hi 👋 I'm Jenny Park
 
 ![AdTech Product Manager](https://img.shields.io/badge/AdTech_Product_Manager-7c6ff7?style=flat-square&logo=probot&logoColor=white) ![Performance Marketing](https://img.shields.io/badge/Performance_Marketing-2dd4bf?style=flat-square&logo=googleanalytics&logoColor=white)
@@ -19,24 +20,26 @@
 
 <br/>
 
+
 > 💡 *Want to build your own tailored resume using AI? **<a href="https://github.com/jinyeong-park/resume" target="_blank" rel="noopener noreferrer">Check out the source code & prompts here →</a>***
 
 ---
 
-### 💻 AI Tools for PM that I built
+### 🚀 AI Tools I Built for Product Managers
+*Interactive web apps designed to streamline product management and engineering workflows.*
 
 | PM Tool Name | GitHub Link | Live Demo |
 | :--- | :--- | :--- |
 | **PRD Generator** | <a href="https://github.com/jinyeong-park/pm-prd-generator" target="_blank" rel="noopener noreferrer">GitHub Repo</a> | <a href="https://pm-prd-generator.lovable.app/" target="_blank" rel="noopener noreferrer">Live Demo 🚀</a> |
 | **PRD Analyzer** | <a href="https://github.com/jinyeong-park/pm-prd-analyzer" target="_blank" rel="noopener noreferrer">GitHub Repo</a> | <a href="https://pm-prd-analyzer.lovable.app/" target="_blank" rel="noopener noreferrer">Live Demo 🚀</a> |
 | **Qrefiner: Better user research questions** <br><sub>(Based on *The Mom Test*)</sub> | <a href="https://github.com/jinyeong-park/qrefiner" target="_blank" rel="noopener noreferrer">GitHub Repo</a> | <a href="https://qrefiner.lovable.app/" target="_blank" rel="noopener noreferrer">Live Demo 🚀</a> |
+| **RAG Simulator** <br><sub>(Interactive Prompt & Demo)</sub> | <a href="https://github.com/jinyeong-park/rag_simulator" target="_blank" rel="noopener noreferrer">GitHub Repo</a> | <a href="https://rag-simulator.lovable.app/" target="_blank" rel="noopener noreferrer">Live Demo 🚀</a> |
 
 <br/>
 
-### 🛠️ Featured AI & Product Prompts
-*You might be interested in these resources:*
+### 🛠️ Production-Ready AI Prompts
+*High-leverage system blueprints and prompts for product design and specification expansion.*
 
-* **<a href="https://github.com/jinyeong-park/rag_simulator" target="_blank" rel="noopener noreferrer">RAG Simulator Prompt & Live Demo →</a>**
 * **<a href="https://github.com/jinyeong-park/ai-prompt-for-pm/blob/main/uiux-design-clean-light-saas.md" target="_blank" rel="noopener noreferrer">UI/UX Design System Prompt →</a>**
   * *Clean & minimalistic SaaS design prompt for modern dashboard interfaces.*
 * **<a href="https://github.com/jinyeong-park/ai-prompt-for-pm/blob/main/meta-system-prompt.md" target="_blank" rel="noopener noreferrer">System Prompt: Frontend Spec Expander →</a>**
