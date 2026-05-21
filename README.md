@@ -50,7 +50,7 @@
 
 ### 🎯 Current Focus
 
-* **Scaling <a href="https://jynlab.com" target="_blank" rel="noopener noreferrer">JYNLAB</a>** — A boutique Meta Ads consultancy driven by data, custom attribution, and aggressive CPA reduction.
+* **Working on <a href="https://jynlab.com" target="_blank" rel="noopener noreferrer">JYNLAB</a>** — Discover your next profitable app idea by tracking flawed App Store apps and user pain points.
 * **Evolving <a href="https://tryadmade.com" target="_blank" rel="noopener noreferrer">Admade</a>** — An AI-powered ad creative generator that turns concepts into platform-optimized copy in minutes.
 
 <br/>
