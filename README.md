@@ -8,9 +8,9 @@
 
 ---
 
-### 📄 Interactive Resume
+### 📄 Portfolio website
 
-* **<a href="https://jinyeong-park.github.io/resume/claude-ver1.html" target="_blank" rel="noopener noreferrer">Resume →</a>**
+* **<a href="https://jinyeong-park.github.io/portfolio-website/" target="_blank" rel="noopener noreferrer">Portfolio →</a>**
 
 <!-- * **[Resume v1 — For Tech Startups (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver1.html)** -->
 <!-- * **[Resume v2 — For B2B SaaS Companies (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver2.html)** -->
@@ -20,7 +20,7 @@
 
 <br/>
 
-
+> 💡 *Want to build your own tailored portfolio website using AI? **<a href="https://github.com/jinyeong-park/portfolio-website" target="_blank" rel="noopener noreferrer">Check out the source code & prompts here →</a>***
 > 💡 *Want to build your own tailored resume using AI? **<a href="https://github.com/jinyeong-park/resume" target="_blank" rel="noopener noreferrer">Check out the source code & prompts here →</a>***
 
 ---
