@@ -1,87 +1,130 @@
-
 # Hi 👋 I'm Jenny Park
 
-![AdTech Product Manager](https://img.shields.io/badge/AdTech_Product_Manager-7c6ff7?style=flat-square&logo=probot&logoColor=white) ![Performance Marketing](https://img.shields.io/badge/Performance_Marketing-2dd4bf?style=flat-square&logo=googleanalytics&logoColor=white)
+![Client Solutions](https://img.shields.io/badge/Client_Solutions-7c6ff7?style=flat-square)
+![Implementation](https://img.shields.io/badge/Implementation-2dd4bf?style=flat-square)
+![Program Management](https://img.shields.io/badge/Program_Management-4B5563?style=flat-square)
+![AI & Data](https://img.shields.io/badge/AI_%26_Data-000000?style=flat-square)
 
-> **Multi-disciplinary operator** bridging performance marketing and product engineering — from Meta Ads strategy to shipping AI-native tooling. 
-> Founder of **JYNLAB** and **Admade**. Ex-SAP PM (AI Focus) · M.S. MCIT, UPenn.
-
----
-
-### 📄 Portfolio website
-
-* **<a href="https://jinyeong-park.github.io/portfolio-website/" target="_blank" rel="noopener noreferrer">Portfolio →</a>**
-
-<!-- * **[Resume v1 — For Tech Startups (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver1.html)** -->
-<!-- * **[Resume v2 — For B2B SaaS Companies (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver2.html)** -->
-<!-- * **[Resume v3 — For AI/Growth Product Manager Roles (Dark Theme) →](https://jinyeong-park.github.io/resume/claude-ver3.html)** -->
-<!-- * **[Resume v4 — For Fortune 500, Enterprise & Strict ATS Screenings (Light Theme) →](https://jinyeong-park.github.io/resume/claude-ver4.html)** -->
-<!-- * **[Resume v5 — For Growth-Stage, Data-Driven B2B SaaS (Light Theme) →](https://jinyeong-park.github.io/resume/claude-ver5.html)** -->
-
-<br/>
-
-> 💡 *Want to build your own tailored portfolio website using AI? **<a href="https://github.com/jinyeong-park/portfolio-website" target="_blank" rel="noopener noreferrer">Check out the source code & prompts here →</a>***
-> 💡 *Want to build your own tailored resume using AI? **<a href="https://github.com/jinyeong-park/resume" target="_blank" rel="noopener noreferrer">Check out the source code & prompts here →</a>***
+> **Client Solutions & Implementation professional** with experience across customer-facing technology, cross-functional program delivery, Data & AI, analytics, and workflow automation.
+>
+> I bridge customers, business stakeholders, and technical teams — translating complex needs into practical solutions from discovery through implementation.
 
 ---
 
-### 🚀 AI Tools & Prototyping I Built for Product Managers
-*Interactive web apps and prototypes designed to streamline product management and engineering workflows.*
+## 👋 About Me
 
-| PM Tool Name | GitHub Link | Prototyping Demo |
+My career has consistently centered around understanding customer and business problems, coordinating across teams, and turning requirements into practical solutions.
+
+My background spans:
+
+- Client solutions and implementation
+- Customer onboarding and workflow automation
+- Cross-functional Data & AI initiatives
+- Program and project management
+- Multi-country data analytics
+- International partnerships and customer experience
+- Software and web technologies
+
+My technical background allows me to work effectively with engineering and data teams while keeping **customer and business outcomes** at the center of the conversation.
+
+I'm currently focused on opportunities in:
+
+**Client Solutions · Implementation · Customer Success · Program Management · Customer-Facing SaaS & AI**
+
+---
+
+## 🌐 Portfolio
+
+**[View my professional portfolio →](https://jinyeong-park.github.io/portfolio-website/)**
+
+---
+
+## 🔄 How I Work
+
+**Discover → Define → Align → Implement → Optimize**
+
+**Discover**  
+Understand the customer, business problem, workflow, constraints, and desired outcome.
+
+**Define**  
+Translate needs into clear requirements, priorities, workflows, and success criteria.
+
+**Align**  
+Connect customers, business stakeholders, product teams, data teams, and technical teams around a shared plan.
+
+**Implement**  
+Coordinate solution configuration, development, testing, onboarding, and launch.
+
+**Optimize**  
+Use customer feedback, performance data, and insights to improve the solution after launch.
+
+---
+
+## 💼 Experience & Focus
+
+### Client Solutions & Implementation
+
+Through **JYNLAB**, I work directly with small businesses to understand customer acquisition, communication, and operational challenges and translate those needs into practical AI and workflow automation solutions.
+
+My work includes:
+
+- Client discovery and requirements gathering
+- Solution design and implementation
+- Customer onboarding
+- CRM and workflow automation
+- Conversational AI
+- Testing and launch coordination
+- Post-launch optimization
+
+### Data & AI — SAP
+
+Worked across business and technical teams on Data & AI initiatives, helping translate business needs into actionable requirements and coordinating stakeholders, priorities, milestones, and delivery.
+
+### Analytics & Program Coordination — Hyundai / Kolao Group
+
+Supported regional operations across Laos, Myanmar, and Vietnam through data analytics, standardized reporting workflows, stakeholder coordination, and multi-country project management.
+
+---
+
+## 🧩 Selected Technical Work
+
+My technical projects reflect my ability to understand systems, prototype solutions, work with APIs and data, and communicate effectively with technical teams.
+
+| Project | Focus | Links |
 | :--- | :--- | :--- |
-| **PRD Generator** | <a href="https://github.com/jinyeong-park/pm-prd-generator" target="_blank" rel="noopener noreferrer">GitHub Repo</a> | <a href="https://pm-prd-generator.lovable.app/" target="_blank" rel="noopener noreferrer">Live Demo 🚀</a> |
-| **PRD Analyzer** | <a href="https://github.com/jinyeong-park/pm-prd-analyzer" target="_blank" rel="noopener noreferrer">GitHub Repo</a> | <a href="https://pm-prd-analyzer.lovable.app/" target="_blank" rel="noopener noreferrer">Live Demo 🚀</a> |
-| **Qrefiner: Better user research questions** <br><sub>(Based on *The Mom Test*)</sub> | <a href="https://github.com/jinyeong-park/qrefiner" target="_blank" rel="noopener noreferrer">GitHub Repo</a> | <a href="https://qrefiner.lovable.app/" target="_blank" rel="noopener noreferrer">Live Demo 🚀</a> |
-| **RAG Simulator** <br><sub>(Interactive Prompt & Demo)</sub> | <a href="https://github.com/jinyeong-park/rag_simulator" target="_blank" rel="noopener noreferrer">GitHub Repo</a> | <a href="https://jinyeong-park.github.io/rag_simulator/rag-simulator.html" target="_blank" rel="noopener noreferrer">Live Demo 🚀</a> |
-| **FunnelLens** <br><sub>AI-powered funnel diagnostic platform for identifying conversion bottlenecks.</sub> | <a href="https://github.com/jinyeong-park/funnellens" target="_blank" rel="noopener noreferrer">GitHub Repo</a> | <a href="https://ai.studio/apps/87d17f08-41b8-4774-ae71-e2bff6286278" target="_blank" rel="noopener noreferrer">Live Demo 🚀</a> |
+| **FunnelLens** | AI-assisted funnel analysis and customer journey insights | [Repository](https://github.com/jinyeong-park/funnellens) |
+| **Qrefiner** | Improving customer and user research questions | [Repository](https://github.com/jinyeong-park/qrefiner) |
+| **PRD Generator** | Translating product ideas into structured requirements | [Repository](https://github.com/jinyeong-park/pm-prd-generator) |
+| **RAG Simulator** | Interactive exploration of AI retrieval workflows | [Repository](https://github.com/jinyeong-park/rag_simulator) |
 
-<br/>
-
-### 🛠️ Production-Ready AI Prompts
-*High-leverage system blueprints and prompts for product design and specification expansion.*
-
-* **<a href="https://github.com/jinyeong-park/ai-prompt-for-pm/blob/main/uiux-design-clean-light-saas.md" target="_blank" rel="noopener noreferrer">UI/UX Design System Prompt →</a>**
-  * *Clean & minimalistic SaaS design prompt for modern dashboard interfaces.*
-* **<a href="https://github.com/jinyeong-park/ai-prompt-for-pm/blob/main/meta-system-prompt.md" target="_blank" rel="noopener noreferrer">System Prompt: Frontend Spec Expander →</a>**
-  * *Converts vague, abstract ideas into detailed, actionable product specification prompts.*
+> These projects are presented as examples of my **technical fluency and problem-solving approach**, rather than as my primary career focus.
 
 ---
 
-### 🎯 Current Focus
+## 🧰 Technical Fluency
 
-* **Working on <a href="https://jynlab.com" target="_blank" rel="noopener noreferrer">JYNLAB</a>** — Discover your next profitable app idea by tracking flawed App Store apps and user pain points.
-* **Evolving <a href="https://tryadmade.com" target="_blank" rel="noopener noreferrer">Admade</a>** — An AI-powered ad creative generator that turns concepts into platform-optimized copy in minutes.
+I have hands-on experience with technologies that help me collaborate effectively with engineering, data, and product teams.
 
-<br/>
+**AI & Automation**  
+LLM workflows · Conversational AI · Workflow Automation · AI APIs
 
----
+**Data**  
+SQL · Python · Data Analytics · Data Visualization
 
-### 📊 Core Metrics
+**Systems & Integration**  
+REST APIs · CRM Workflows · Web Technologies · Cloud Platforms
 
-| ROAS Achieved | CPA Reduction | Enterprise Experience | Global Footprint |
-| :---: | :---: | :---: | :---: |
-| **`7.2×`** | **`-58%`** | **`2× SAP PM/SWE`** | **`40+ Countries`** |
+**Product & Delivery**  
+Requirements Gathering · Testing · Cross-functional Delivery · Agile Workflows
 
-<br/>
-
----
-
-### 🧰 Tech Stack & Skill Matrix
-
-| Product & AdTech | Engineering & Data | AI Deployments |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Strategy-7c6ff7?style=flat-square" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square&logo=anthropic&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Roadmapping-7c6ff7?style=flat-square" /> | <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/LLM_APIs-000000?style=flat-square" /> |
-| <img src="https://img.shields.io/badge/PRD_Writing-7c6ff7?style=flat-square" /> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Meta_Ads-1877F2?style=flat-square&logo=meta&logoColor=white" /> | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> | <img src="https://img.shields.io/badge/GPT--4o-10a37f?style=flat-square&logo=openai&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/TikTok_Ads-000000?style=flat-square&logo=tiktok&logoColor=white" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/ROAS_Optimization-2dd4bf?style=flat-square" /> | <img src="https://img.shields.io/badge/REST_APIs-4B5563?style=flat-square" /> | <img src="https://img.shields.io/badge/Lovable--7c6ff7?style=flat-square" /> |
-
-<br/>
+My goal is not to be the engineer in the room — it's to be the person who can **understand both the customer and the technology well enough to help both sides succeed.**
 
 ---
 
-### 🤝 Contact & Connect
+## 🤝 Connect
 
-<a href="https://linkedin.com/in/jennypark7" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-2dd4bf?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:byjennypark@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-f97066?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+[LinkedIn](https://linkedin.com/in/jennypark7) ·
+[Portfolio](https://jinyeong-park.github.io/portfolio-website/) ·
+[Email](mailto:byjennypark@gmail.com)
+
+📍 San Jose, California
