@@ -1,35 +1,34 @@
 # Hi 👋 I'm Jenny Park
 
-![Client Solutions](https://img.shields.io/badge/Client_Solutions-7c6ff7?style=flat-square)
-![Implementation](https://img.shields.io/badge/Implementation-2dd4bf?style=flat-square)
-![Program Management](https://img.shields.io/badge/Program_Management-4B5563?style=flat-square)
-![AI & Data](https://img.shields.io/badge/AI_%26_Data-000000?style=flat-square)
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-7c6ff7?style=flat-square)
+![Business Analyst](https://img.shields.io/badge/Business_Analyst-2dd4bf?style=flat-square)
+![Growth & Marketing Analytics](https://img.shields.io/badge/Growth_%26_Marketing_Analytics-4B5563?style=flat-square)
+![AI-Native Analysis](https://img.shields.io/badge/AI--Native_Analysis-000000?style=flat-square)
 
-> **Client Solutions & Implementation professional** with experience across customer-facing technology, cross-functional program delivery, Data & AI, analytics, and workflow automation.
+> **Data & Business Analyst** who turns messy business, product, and marketing data into measurable decisions and scalable systems.
 >
-> I bridge customers, business stakeholders, and technical teams — translating complex needs into practical solutions from discovery through implementation.
+> I work across SQL, Python, BI, and AI-native workflows to move from "what happened" to "what should we do next" — and I've done the same thing across customer data, product data, and paid acquisition data.
 
 ---
 
 ## 👋 About Me
 
-My career has consistently centered around understanding customer and business problems, coordinating across teams, and turning requirements into practical solutions.
+My work keeps circling back to the same pattern: take messy, cross-functional data, find the real question underneath it, and turn the answer into a specific recommendation someone can act on.
 
 My background spans:
 
-- Client solutions and implementation
-- Customer onboarding and workflow automation
-- Cross-functional Data & AI initiatives
-- Program and project management
-- Multi-country data analytics
-- International partnerships and customer experience
-- Software and web technologies
+- Data and business analysis — SQL, Python, dashboards, KPI definition
+- Customer, product, and growth/marketing analytics
+- Requirements gathering, stakeholder alignment, and cross-functional delivery
+- Multi-country operational data and reporting
+- AI-native workflows — using LLMs as part of the actual analysis process, not just for drafting text
+- Client-facing technology and implementation, as the evidence behind the analysis — not the job title I'm chasing
 
-My technical background allows me to work effectively with engineering and data teams while keeping **customer and business outcomes** at the center of the conversation.
+My technical background lets me work directly with SQL, Python, and BI tools, while treating the business decision — not the dashboard — as the actual deliverable.
 
 I'm currently focused on opportunities in:
 
-**Client Solutions · Implementation · Customer Success · Program Management · Customer-Facing SaaS & AI**
+**Data Analyst · Business Analyst · Business Operations/Systems Analyst · Growth & Marketing Analytics**
 
 ---
 
@@ -41,44 +40,42 @@ I'm currently focused on opportunities in:
 
 ## 🔄 How I Work
 
-**Discover → Define → Align → Implement → Optimize**
+**Question → Data → Analysis → Recommendation → Measurement**
 
-**Discover**  
-Understand the customer, business problem, workflow, constraints, and desired outcome.
+**Question**
+Start with the business or growth question, not the dashboard someone asked for.
 
-**Define**  
-Translate needs into clear requirements, priorities, workflows, and success criteria.
+**Data**
+Pull and validate the data across the systems it actually lives in — product, CRM, ad platforms, support.
 
-**Align**  
-Connect customers, business stakeholders, product teams, data teams, and technical teams around a shared plan.
+**Analysis**
+Use SQL and Python to find the real pattern, not just the first metric that shows up.
 
-**Implement**  
-Coordinate solution configuration, development, testing, onboarding, and launch.
+**Recommendation**
+Translate the finding into a specific action, with the tradeoffs and confidence level stated plainly.
 
-**Optimize**  
-Use customer feedback, performance data, and insights to improve the solution after launch.
+**Measurement**
+Define upfront how I'll know whether the recommendation actually worked — not just whether it shipped.
 
 ---
 
 ## 💼 Experience & Focus
 
-### Client Solutions & Implementation
+### Data, Growth & Business Analytics — JYNLAB
 
-Through **JYNLAB**, I work directly with small businesses to understand customer acquisition, communication, and operational challenges and translate those needs into practical AI and workflow automation solutions.
+Through **JYNLAB**, I work on the data side of growth and business operations: defining what a *real* conversion is instead of a vanity metric, building the SQL/Python analysis behind it, and turning that into a specific recommendation.
 
 My work includes:
 
-- Client discovery and requirements gathering
-- Solution design and implementation
-- Customer onboarding
-- CRM and workflow automation
-- Conversational AI
-- Testing and launch coordination
-- Post-launch optimization
+- Business and growth data analysis (SQL, Python, dashboards)
+- Conversion tracking and attribution design
+- Requirements gathering and KPI definition
+- AI-assisted research, reporting, and workflow automation
+- Stakeholder communication — translating analysis into a recommendation, not just a report
 
-### Data & AI — SAP
+### Data & AI Business Analysis — SAP
 
-Worked across business and technical teams on Data & AI initiatives, helping translate business needs into actionable requirements and coordinating stakeholders, priorities, milestones, and delivery.
+Worked across business and technical teams on Data & AI initiatives, translating business needs into actionable requirements and coordinating stakeholders, priorities, milestones, and delivery.
 
 ### Analytics & Program Coordination — Hyundai / Kolao Group
 
@@ -88,36 +85,34 @@ Supported regional operations across Laos, Myanmar, and Vietnam through data ana
 
 ## 🧩 Selected Technical Work
 
-My technical projects reflect my ability to understand systems, prototype solutions, work with APIs and data, and communicate effectively with technical teams.
-
 | Project | Focus | Links |
 | :--- | :--- | :--- |
+| **JYNLAB Growth Attribution System** | Real Google Ads campaign with real-conversion attribution (not platform vanity metrics), incrementality testing, and a documented AI agent playbook | [Repository](https://github.com/jinyeong-park/jynlab-growth-attribution-system) |
+| **Loopline: B2B SaaS Data & Business Analytics** | SQL/Python analysis of a synthetic B2B SaaS customer lifecycle — funnel, engagement, retention, revenue — including a root-cause finding that overturns the obvious hypothesis, translated into business recommendations | [Repository](https://github.com/jinyeong-park/loopline-saas-analytics) |
 | **FunnelLens** | AI-assisted funnel analysis and customer journey insights | [Repository](https://github.com/jinyeong-park/funnellens) |
 | **Qrefiner** | Improving customer and user research questions | [Repository](https://github.com/jinyeong-park/qrefiner) |
 | **PRD Generator** | Translating product ideas into structured requirements | [Repository](https://github.com/jinyeong-park/pm-prd-generator) |
 | **RAG Simulator** | Interactive exploration of AI retrieval workflows | [Repository](https://github.com/jinyeong-park/rag_simulator) |
 
-> These projects are presented as examples of my **technical fluency and problem-solving approach**, rather than as my primary career focus.
+> The first two are my primary focus right now. The rest are here as evidence of technical fluency and problem-solving range, not the main story.
 
 ---
 
 ## 🧰 Technical Fluency
 
-I have hands-on experience with technologies that help me collaborate effectively with engineering, data, and product teams.
+**Data & Analysis**
+SQL · Python · Data Analytics · Data Visualization (Tableau / Power BI) · A/B Testing & Attribution
 
-**AI & Automation**  
-LLM workflows · Conversational AI · Workflow Automation · AI APIs
+**AI & Automation**
+LLM-assisted analysis workflows · AI-assisted research & reporting · Workflow Automation · AI APIs
 
-**Data**  
-SQL · Python · Data Analytics · Data Visualization
+**Systems & Integration**
+REST APIs · Ad Platform & CRM Data (Google Ads, GA4) · Web Technologies · Cloud Platforms
 
-**Systems & Integration**  
-REST APIs · CRM Workflows · Web Technologies · Cloud Platforms
+**Business & Delivery**
+Requirements Gathering · KPI Definition · Stakeholder Communication · Cross-functional Delivery
 
-**Product & Delivery**  
-Requirements Gathering · Testing · Cross-functional Delivery · Agile Workflows
-
-My goal is not to be the engineer in the room — it's to be the person who can **understand both the customer and the technology well enough to help both sides succeed.**
+My goal isn't to build the most polished-looking dashboard — it's to find the number that actually changes what the business does next.
 
 ---
 
