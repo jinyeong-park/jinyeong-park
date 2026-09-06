@@ -1,34 +1,30 @@
 # Hi 👋 I'm Jenny Park
 
-![Data & Growth Analyst](https://img.shields.io/badge/Data_%26_Growth_Analyst-7c6ff7?style=flat-square)
-![Business Analyst](https://img.shields.io/badge/Business_Analyst-2dd4bf?style=flat-square)
-![Growth & Marketing Analytics](https://img.shields.io/badge/Growth_%26_Marketing_Analytics-4B5563?style=flat-square)
-![AI-Native Analysis](https://img.shields.io/badge/AI--Native_Analysis-000000?style=flat-square)
+![Marketing & Growth Analytics](https://img.shields.io/badge/Marketing_%26_Growth_Analytics-7c6ff7?style=flat-square)
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-2dd4bf?style=flat-square)
+![Business & Marketing Intelligence](https://img.shields.io/badge/Marketing_Intelligence-4B5563?style=flat-square)
+![AI-Native Analytics](https://img.shields.io/badge/AI--Native_Analysis-000000?style=flat-square)
 
-> **Data & Business Analyst** who turns messy business, product, and marketing data into measurable decisions.
+> **Marketing & Growth Data Analyst** based in Silicon Valley who turns complex product, campaign, and customer data into scalable growth decisions.
 >
-> I work across SQL, Python, BI, and AI-native workflows to move from *"what happened"* to *"what should we do next"* — the same way across customer data, product data, and paid-acquisition data.
+> I leverage SQL, Python, BI tools, and AI-native workflows to bridge paid acquisition, product engagement, and business ROI — moving teams from *"what happened"* to *"where to reallocate budget next."*
 
 ---
 
 ## 👋 About Me
 
-My work keeps circling back to the same pattern: take messy, cross-functional data, find the real question underneath it, and turn the answer into a specific recommendation someone can act on.
+My work focuses on bridging marketing performance and product analytics: untangling messy cross-channel data, identifying true conversion signals, and delivering actionable campaign and growth insights.
 
 My background spans:
 
-- Data and business analysis — SQL, Python, dashboards, KPI definition
-- Customer, product, and growth/marketing analytics
-- Requirements gathering, stakeholder alignment, and cross-functional delivery
-- Multi-country operational data and reporting
-- AI-native workflows — using LLMs as part of the actual analysis process, not just to draft text
-- Hands-on implementation background — so the analysis stays grounded in how systems and data actually behave in production
-
-My technical background lets me work directly with SQL, Python, and BI tools — while treating the business decision, not the dashboard, as the actual deliverable.
+- **Marketing & Growth Analytics** — CAC/LTV modeling, paid media attribution, incrementality testing, and funnel optimization
+- **Data & Business Analysis** — Advanced SQL, Python, dashboarding (Tableau, Looker, GA4), and KPI definition
+- **Cross-Functional Alignment** — Translating complex analytical findings into clear business decisions for marketing, product, and executive stakeholders
+- **AI-Native Workflows** — Integrating LLMs directly into data analysis pipelines to accelerate insight generation and workflow automation
 
 I'm currently focused on opportunities in:
 
-**Data Analyst · Business Analyst · Business Operations / Systems Analyst · Growth & Marketing Analytics**
+**Marketing Analyst · Growth Analytics · Marketing Intelligence Analyst · Data Analyst (Growth)**
 
 ---
 
@@ -42,85 +38,67 @@ I'm currently focused on opportunities in:
 
 **Question → Data → Analysis → Recommendation → Measurement**
 
-- **Question** — Start with the business or growth question, not the dashboard someone asked for.
-- **Data** — Pull and validate data across the systems it actually lives in: product, CRM, ad platforms, support.
-- **Analysis** — Use SQL and Python to find the real pattern, not just the first metric that shows up.
-- **Recommendation** — Translate the finding into a specific action, with tradeoffs and confidence level stated plainly.
-- **Measurement** — Define upfront how I'll know whether the recommendation actually worked — not just whether it shipped.
+- **Question** — Focus on the growth leverage point (e.g., CAC reduction, retention drop-off), not just a dashboard request.
+- **Data** — Extract and validate cross-channel data across ad platforms, GA4, CRM, and internal warehouses.
+- **Analysis** — Apply SQL and Python to isolate true campaign incrementality and cohort behavior rather than relying on vanity metrics.
+- **Recommendation** — Deliver concrete budget reallocations and optimization strategies with clear trade-offs and confidence metrics.
+- **Measurement** — Establish holdout groups and tracking frameworks upfront to measure actual incremental lift.
 
 ---
 
 ## ⭐ Featured Work
 
-These two are where my current focus lives — real analysis, from question to recommendation.
-
 **[JYNLAB Growth Attribution System](https://github.com/jinyeong-park/jynlab-growth-attribution-system)**
-A live Google Ads campaign wired for *real*-conversion attribution instead of platform vanity metrics — with incrementality testing and a documented AI-agent playbook. The point: separate the signal (actual conversions) from what the ad platform wants to report, then decide budget on the former.
+A live Google Ads campaign setup engineered for *real*-conversion attribution over platform vanity metrics — incorporating incrementality testing and an AI-agent playbook to optimize ad spend allocation based on true ROI.
 
 **[Loopline: B2B SaaS Data & Business Analytics](https://github.com/jinyeong-park/loopline-saas-analytics)**
-SQL/Python analysis of a B2B SaaS customer lifecycle — funnel, engagement, retention, revenue — built around a root-cause finding that *overturns the obvious hypothesis*, then translated into business recommendations. This is the "what should we do next," not just "what happened."
+End-to-end SQL/Python analysis of the SaaS customer lifecycle — analyzing activation funnels, engagement, retention, and churn root causes to deliver high-impact go-to-market strategies.
 
 ---
 
 ## 💼 Experience & Focus
 
-### Data, Growth & Business Analytics — JYNLAB
-
-Through **JYNLAB**, I work on the data side of growth and business operations: defining what a *real* conversion is instead of a vanity metric, building the SQL/Python analysis behind it, and turning that into a specific recommendation.
-
-- Business and growth data analysis (SQL, Python, dashboards)
-- Conversion tracking and attribution design
-- Requirements gathering and KPI definition
-- AI-assisted research, reporting, and workflow automation
-- Stakeholder communication — translating analysis into a recommendation, not just a report
+### Data, Growth & Marketing Analytics — JYNLAB
+- Designed multi-channel attribution frameworks and campaign tracking protocols to replace ad platform vanity metrics with true conversion signals.
+- Built SQL/Python analytical workflows for marketing performance, customer segmentation, and budget optimization.
+- Leveraged AI automation for market research, reporting workflows, and competitive benchmarking.
 
 ### Data & AI Business Analysis — SAP
-
-Worked across business and technical teams on Data & AI initiatives, translating business needs into actionable requirements and coordinating stakeholders, priorities, milestones, and delivery.
+- Coordinated cross-functional data initiatives, establishing actionable technical requirements and KPI frameworks across business and product teams.
 
 ### Analytics & Program Coordination — Hyundai / Kolao Group
-
-Supported regional operations across Laos, Myanmar, and Vietnam through data analytics, standardized reporting workflows, stakeholder coordination, and multi-country project management.
+- Managed cross-border data reporting workflows across Southeast Asian markets, standardizing performance tracking and operational dashboards.
 
 ---
 
-## 🧩 Selected Technical Work
+## 🧩 Selected Projects
 
 | Project | Focus | Links |
 | :--- | :--- | :--- |
-| **JYNLAB Growth Attribution System** | Real Google Ads campaign with real-conversion attribution (not platform vanity metrics), incrementality testing, and a documented AI agent playbook | [Repository](https://github.com/jinyeong-park/jynlab-growth-attribution-system) |
-| **Loopline: B2B SaaS Data & Business Analytics** | SQL/Python analysis of a synthetic B2B SaaS customer lifecycle — funnel, engagement, retention, revenue — including a root-cause finding that overturns the obvious hypothesis, translated into business recommendations | [Repository](https://github.com/jinyeong-park/loopline-saas-analytics) |
-| **FunnelLens** | AI-assisted funnel analysis and customer journey insights | [Repository](https://github.com/jinyeong-park/funnellens) |
-| **Qrefiner** | Improving customer and user research questions | [Repository](https://github.com/jinyeong-park/qrefiner) |
-| **PRD Generator** | Translating product ideas into structured requirements | [Repository](https://github.com/jinyeong-park/pm-prd-generator) |
-| **RAG Simulator** | Interactive exploration of AI retrieval workflows | [Repository](https://github.com/jinyeong-park/rag_simulator) |
-
-> The Attribution System and Loopline are my primary focus right now. The rest are here as evidence of technical range and problem-solving, not the main story.
+| **JYNLAB Growth Attribution** | Real campaign attribution, incrementality testing, and AI-driven spend optimization | [Repository](https://github.com/jinyeong-park/jynlab-growth-attribution-system) |
+| **Loopline SaaS Analytics** | SQL/Python customer lifecycle, churn root-cause analysis, and retention modeling | [Repository](https://github.com/jinyeong-park/loopline-saas-analytics) |
+| **FunnelLens** | AI-assisted customer journey and conversion funnel analytics | [Repository](https://github.com/jinyeong-park/funnellens) |
+| **Qrefiner** | Data-driven optimization framework for customer research & survey design | [Repository](https://github.com/jinyeong-park/qrefiner) |
 
 ---
 
 ## 🧰 Technical Fluency
 
-**Data & Analysis**
-SQL · Python · Data Analytics · Data Visualization (Tableau · Looker) · A/B Testing & Attribution
+**Analytics & Marketing Stack**
+SQL · Python (Pandas, NumPy) · Tableau · Looker · GA4 · Google Ads · A/B Testing & Incrementality · Marketing Attribution (MMM / Multi-Touch) · Funnel & Cohort Analysis
 
-**AI & Automation**
-LLM-assisted analysis workflows · AI-assisted research & reporting · Workflow Automation · AI APIs
+**AI & Workflow Automation**
+LLM-Assisted Analytics · Workflow Automation · AI APIs & Prompt Engineering
 
-**Systems & Integration**
-REST APIs · Ad Platform & CRM Data (Google Ads, GA4) · Web Technologies · Cloud Platforms
-
-**Business & Delivery**
-Requirements Gathering · KPI Definition · Stakeholder Communication · Cross-functional Delivery
-
-> My goal isn't the most polished-looking dashboard — it's the number that actually changes what the business does next.
+**Data & Systems Integration**
+REST APIs · Ad Platforms & CRM Data Integration · Snowflake / BigQuery Concepts · Web Analytics
 
 ---
 
 ## 🤝 Connect
 
 [LinkedIn](https://www.linkedin.com/in/jennypark7/) ·
-[Portfolio](https://jinyeong-park.github.io/portfolio-website/) ·
+[Portfolio](https://jennyparkai.com/) ·
 [Email](mailto:byjennypark@gmail.com)
 
 📍 San Jose, California
