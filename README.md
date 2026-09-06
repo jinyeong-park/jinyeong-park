@@ -1,13 +1,13 @@
 # Hi 👋 I'm Jenny Park
 
-![Data Analyst](https://img.shields.io/badge/Data_Analyst-7c6ff7?style=flat-square)
+![Data & Growth Analyst](https://img.shields.io/badge/Data_%26_Growth_Analyst-7c6ff7?style=flat-square)
 ![Business Analyst](https://img.shields.io/badge/Business_Analyst-2dd4bf?style=flat-square)
 ![Growth & Marketing Analytics](https://img.shields.io/badge/Growth_%26_Marketing_Analytics-4B5563?style=flat-square)
 ![AI-Native Analysis](https://img.shields.io/badge/AI--Native_Analysis-000000?style=flat-square)
 
-> **Data & Business Analyst** who turns messy business, product, and marketing data into measurable decisions and scalable systems.
+> **Data & Business Analyst** who turns messy business, product, and marketing data into measurable decisions.
 >
-> I work across SQL, Python, BI, and AI-native workflows to move from "what happened" to "what should we do next" — and I've done the same thing across customer data, product data, and paid acquisition data.
+> I work across SQL, Python, BI, and AI-native workflows to move from *"what happened"* to *"what should we do next"* — the same way across customer data, product data, and paid-acquisition data.
 
 ---
 
@@ -21,20 +21,20 @@ My background spans:
 - Customer, product, and growth/marketing analytics
 - Requirements gathering, stakeholder alignment, and cross-functional delivery
 - Multi-country operational data and reporting
-- AI-native workflows — using LLMs as part of the actual analysis process, not just for drafting text
-- Client-facing technology and implementation, as the evidence behind the analysis — not the job title I'm chasing
+- AI-native workflows — using LLMs as part of the actual analysis process, not just to draft text
+- Hands-on implementation background — so the analysis stays grounded in how systems and data actually behave in production
 
-My technical background lets me work directly with SQL, Python, and BI tools, while treating the business decision — not the dashboard — as the actual deliverable.
+My technical background lets me work directly with SQL, Python, and BI tools — while treating the business decision, not the dashboard, as the actual deliverable.
 
 I'm currently focused on opportunities in:
 
-**Data Analyst · Business Analyst · Business Operations/Systems Analyst · Growth & Marketing Analytics**
+**Data Analyst · Business Analyst · Business Operations / Systems Analyst · Growth & Marketing Analytics**
 
 ---
 
 ## 🌐 Portfolio
 
-**[View my professional portfolio →](https://jinyeong-park.github.io/portfolio-website/)**
+**[View my portfolio →](https://jennyparkai.com/)**
 
 ---
 
@@ -42,20 +42,23 @@ I'm currently focused on opportunities in:
 
 **Question → Data → Analysis → Recommendation → Measurement**
 
-**Question**
-Start with the business or growth question, not the dashboard someone asked for.
+- **Question** — Start with the business or growth question, not the dashboard someone asked for.
+- **Data** — Pull and validate data across the systems it actually lives in: product, CRM, ad platforms, support.
+- **Analysis** — Use SQL and Python to find the real pattern, not just the first metric that shows up.
+- **Recommendation** — Translate the finding into a specific action, with tradeoffs and confidence level stated plainly.
+- **Measurement** — Define upfront how I'll know whether the recommendation actually worked — not just whether it shipped.
 
-**Data**
-Pull and validate the data across the systems it actually lives in — product, CRM, ad platforms, support.
+---
 
-**Analysis**
-Use SQL and Python to find the real pattern, not just the first metric that shows up.
+## ⭐ Featured Work
 
-**Recommendation**
-Translate the finding into a specific action, with the tradeoffs and confidence level stated plainly.
+These two are where my current focus lives — real analysis, from question to recommendation.
 
-**Measurement**
-Define upfront how I'll know whether the recommendation actually worked — not just whether it shipped.
+**[JYNLAB Growth Attribution System](https://github.com/jinyeong-park/jynlab-growth-attribution-system)**
+A live Google Ads campaign wired for *real*-conversion attribution instead of platform vanity metrics — with incrementality testing and a documented AI-agent playbook. The point: separate the signal (actual conversions) from what the ad platform wants to report, then decide budget on the former.
+
+**[Loopline: B2B SaaS Data & Business Analytics](https://github.com/jinyeong-park/loopline-saas-analytics)**
+SQL/Python analysis of a B2B SaaS customer lifecycle — funnel, engagement, retention, revenue — built around a root-cause finding that *overturns the obvious hypothesis*, then translated into business recommendations. This is the "what should we do next," not just "what happened."
 
 ---
 
@@ -64,8 +67,6 @@ Define upfront how I'll know whether the recommendation actually worked — not 
 ### Data, Growth & Business Analytics — JYNLAB
 
 Through **JYNLAB**, I work on the data side of growth and business operations: defining what a *real* conversion is instead of a vanity metric, building the SQL/Python analysis behind it, and turning that into a specific recommendation.
-
-My work includes:
 
 - Business and growth data analysis (SQL, Python, dashboards)
 - Conversion tracking and attribution design
@@ -94,14 +95,14 @@ Supported regional operations across Laos, Myanmar, and Vietnam through data ana
 | **PRD Generator** | Translating product ideas into structured requirements | [Repository](https://github.com/jinyeong-park/pm-prd-generator) |
 | **RAG Simulator** | Interactive exploration of AI retrieval workflows | [Repository](https://github.com/jinyeong-park/rag_simulator) |
 
-> The first two are my primary focus right now. The rest are here as evidence of technical fluency and problem-solving range, not the main story.
+> The Attribution System and Loopline are my primary focus right now. The rest are here as evidence of technical range and problem-solving, not the main story.
 
 ---
 
 ## 🧰 Technical Fluency
 
 **Data & Analysis**
-SQL · Python · Data Analytics · Data Visualization (Tableau / Power BI) · A/B Testing & Attribution
+SQL · Python · Data Analytics · Data Visualization (Tableau · Looker) · A/B Testing & Attribution
 
 **AI & Automation**
 LLM-assisted analysis workflows · AI-assisted research & reporting · Workflow Automation · AI APIs
@@ -112,13 +113,13 @@ REST APIs · Ad Platform & CRM Data (Google Ads, GA4) · Web Technologies · Clo
 **Business & Delivery**
 Requirements Gathering · KPI Definition · Stakeholder Communication · Cross-functional Delivery
 
-My goal isn't to build the most polished-looking dashboard — it's to find the number that actually changes what the business does next.
+> My goal isn't the most polished-looking dashboard — it's the number that actually changes what the business does next.
 
 ---
 
 ## 🤝 Connect
 
-[LinkedIn](https://linkedin.com/in/jennypark7) ·
+[LinkedIn](https://www.linkedin.com/in/jennypark7/) ·
 [Portfolio](https://jinyeong-park.github.io/portfolio-website/) ·
 [Email](mailto:byjennypark@gmail.com)
 
