@@ -51,7 +51,7 @@ I'm currently focused on opportunities in:
 **[JYNLAB Growth Attribution System](https://github.com/jinyeong-park/jynlab-growth-attribution-system)**
 A live Google Ads campaign setup engineered for *real*-conversion attribution over platform vanity metrics — incorporating incrementality testing and an AI-agent playbook to optimize ad spend allocation based on true ROI.
 
-**[Loopline: B2B SaaS Data & Business Analytics](https://github.com/jinyeong-park/loopline-saas-analytics)**
+**[Loopline: B2B SaaS Data & Business Analytics](https://github.com/jinyeong-park/saas_lifecycle_retention)**
 End-to-end SQL/Python analysis of the SaaS customer lifecycle — analyzing activation funnels, engagement, retention, and churn root causes to deliver high-impact go-to-market strategies.
 
 ---
