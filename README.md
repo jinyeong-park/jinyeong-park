@@ -1,6 +1,6 @@
 # Hi, I'm Jenny Park 👋
 
-![AI Application Developer](https://img.shields.io/badge/Data_Analyst-2dd4bf?style=flat-square)                                                                              
+![AI Application Developer](https://img.shields.io/badge/AI Application Developer-2dd4bf?style=flat-square)                                                                            
 ![Product & Growth Analytics](https://img.shields.io/badge/Marketing_%26_Growth_Analytics-7c6ff7?style=flat-square)
 ![Data Analysis](https://img.shields.io/badge/Data_Analyst-2dd4bf?style=flat-square)
 ![Business & Marketing Intelligence](https://img.shields.io/badge/Marketing_Intelligence-4B5563?style=flat-square)
