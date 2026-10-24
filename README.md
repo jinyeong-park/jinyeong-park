@@ -94,26 +94,6 @@ Define tracking and measurement frameworks so impact can be evaluated over time.
 
 ---
 
-## Experience
-
-### JYNLAB — Data, Growth & Marketing Analytics
-
-* Built marketing analytics and attribution frameworks to identify real conversion signals.
-* Developed SQL/Python workflows for campaign performance, segmentation, and budget optimization.
-* Applied AI automation to research, reporting, and competitive analysis.
-
-### SAP — Data & AI Business Analysis
-
-* Coordinated cross-functional data initiatives across business and product teams.
-* Translated business requirements into actionable analytics and KPI frameworks.
-
-### Hyundai / Kolao Group — Analytics & Program Coordination
-
-* Managed cross-border performance reporting across Southeast Asian markets.
-* Standardized data tracking and operational dashboards.
-
----
-
 ## Technical Stack
 
 **Analytics**
